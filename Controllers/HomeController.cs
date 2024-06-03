@@ -44,7 +44,7 @@ namespace testttttttt.Controllers
             return View();
         }
 
-        public IActionResult Index222()
+        public IActionResult Index222222()
         {
             return View();
         }
