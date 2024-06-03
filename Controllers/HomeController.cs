@@ -23,6 +23,12 @@ namespace testttttttt.Controllers
             return View();
         }
 
+
+        public IActionResult Privacy11()
+        {
+            return View();
+        }
+
         public IActionResult Index1111()
         {
             return View();
